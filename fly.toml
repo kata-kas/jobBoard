@@ -3,4 +3,3 @@ primary_region = "otp"
 
 [build]
     dockerfile = "Dockerfile"
-    build-target = "production"
