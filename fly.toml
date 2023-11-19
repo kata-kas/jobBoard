@@ -1,0 +1,6 @@
+app = "job-board-api"
+primary_region = "otp"
+
+[build]
+    dockerfile = "Dockerfile"
+    build-target = "production"
